@@ -1,0 +1,13 @@
+# Node.js
+**/node_modules
+**/.env
+
+# Build outputs
+client/build
+admin/build
+dist
+
+# System files
+.DS_Store
+*.log
+logs/
